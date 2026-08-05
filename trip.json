@@ -9,46 +9,22 @@
     "Moon",
     "Nga"
   ],
-  "airbnbs": {
-    "bangkok": {
-      "name": "Bangkok",
-      "address": "อยู่ในซอยเดียวกันกับโรงแรมเอเชีย\n323 Soi Phayathai, Ratchathewi, Bangkok 10400, Thailand",
-      "airbnb": "https://www.airbnb.com/l/PzAZ262h?s=67&unique_share_id=b6d1ca4c-1cfd-4481-a085-59eca7335a9c",
-      "maps": "https://www.google.com/maps/search/?api=1&query=323+Soi+Phayathai%2C+Ratchathewi%2C+Bangkok+10400"
-    },
-    🛏️ Chỗ ngủ: 3 phòng · 7 giường
-🚿 Phòng tắm: 4 phòng
-Có sẵn:
-📺 TV
-❄️ Điều hòa
-📶 Wi-Fi
-⚠️ Lưu ý:
-❌ Không có máy giặt
-❌ Không có bếp
-❌ Không có nước nóng
-❌ Không cung cấp khăn tắm → nhớ mang theo
-    
-    "huaHin": {
-      "name": "Hua Hin",
-      "address": "4/44 Phetkasem Rd., Soi Hua Hin 96/1, ตำบลหัวหิน, Prachuap Khiri Khan 77110, Thailand",
-      "airbnb": "https://www.airbnb.com/l/lxlaf7nZ",
-      "maps": "https://www.google.com/maps/search/?api=1&query=4%2F44+Phetkasem+Rd%2C+Soi+Hua+Hin+96%2F1%2C+Hua+Hin%2C+Prachuap+Khiri+Khan+77110"
-    }
-    🛏️ Chỗ ngủ: 4 phòng ngủ · 9 giường
-🚿 Phòng tắm: 4,5 phòng
-Tiện nghi:
-🏊 Hồ bơi ngâm nước muối (saltwater plunge pool)
-🧺 Máy giặt
-👕 Máy sấy quần áo
-🧴 Dầu gội, dầu xả & xà phòng
-🛁 Khăn tắm
-👔 Bàn ủi
-💨 Máy sấy tóc
-🍚 Nồi cơm điện
-🍞 Máy nướng bánh mì
-🔥 Lò nướng
-📡 Wi-Fi / tiện nghi lưu trú thông thường
+  "airbnbs": {"airbnbs": {
+  "bangkok": {
+    "name": "Bangkok",
+    "address": "อยู่ในซอยเดียวกันกับโรงแรมเอเชีย\n323 Soi Phayathai, Ratchathewi, Bangkok 10400, Thailand",
+    "airbnb": "https://www.airbnb.com/l/PzAZ262h?s=67&unique_share_id=b6d1ca4c-1cfd-4481-a085-59eca7335a9c",
+    "maps": "https://www.google.com/maps/search/?api=1&query=323+Soi+Phayathai%2C+Ratchathewi%2C+Bangkok+10400",
+    "features": "🛏️ 3 phòng · 7 giường\n🚿 4 phòng tắm\n\nCó sẵn:\n📺 TV\n❄️ Điều hòa\n📶 Wi-Fi\n\n⚠️ Lưu ý:\n❌ Không có máy giặt\n❌ Không có bếp\n❌ Không có nước nóng\n❌ Không cung cấp khăn tắm → nhớ mang theo"
   },
+  "huaHin": {
+    "name": "Hua Hin",
+    "address": "4/44 Phetkasem Rd., Soi Hua Hin 96/1, ตำบลหัวหิน, Prachuap Khiri Khan 77110, Thailand",
+    "airbnb": "https://www.airbnb.com/l/lxlaf7nZ",
+    "maps": "https://www.google.com/maps/search/?api=1&query=4%2F44+Phetkasem+Rd%2C+Soi+Hua+Hin+96%2F1%2C+Hua+Hin%2C+Prachuap+Khiri+Khan+77110",
+    "features": "🛏️ 4 phòng ngủ · 9 giường\n🚿 4,5 phòng tắm\n\nTiện nghi:\n🏊 Hồ bơi ngâm nước muối (saltwater plunge pool)\n🧺 Máy giặt\n👕 Máy sấy quần áo\n🧴 Dầu gội, dầu xả & xà phòng\n🛁 Khăn tắm\n👔 Bàn ủi\n💨 Máy sấy tóc\n🍚 Nồi cơm điện\n🍞 Máy nướng bánh mì\n🔥 Lò nướng\n📡 Wi-Fi"
+  }
+},},
   "flights": {
     "group": {
       "outbound": {
