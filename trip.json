@@ -1,0 +1,121 @@
+{
+  "title": "Thailand 2026 🇹🇭",
+  "dates": "28/08 – 02/09/2026",
+  "travelers": [
+    "Chris",
+    "Jessica",
+    "Jessica Huyền",
+    "Bách",
+    "Moon",
+    "Nga"
+  ],
+  "airbnbs": {
+    "bangkok": {
+      "name": "Bangkok",
+      "address": "อยู่ในซอยเดียวกันกับโรงแรมเอเชีย\n323 Soi Phayathai, Ratchathewi, Bangkok 10400, Thailand",
+      "airbnb": "https://www.airbnb.com/l/PzAZ262h?s=67&unique_share_id=b6d1ca4c-1cfd-4481-a085-59eca7335a9c",
+      "maps": "https://www.google.com/maps/search/?api=1&query=323+Soi+Phayathai%2C+Ratchathewi%2C+Bangkok+10400"
+    },
+    "huaHin": {
+      "name": "Hua Hin",
+      "address": "4/44 Phetkasem Rd., Soi Hua Hin 96/1, ตำบลหัวหิน, Prachuap Khiri Khan 77110, Thailand",
+      "airbnb": "https://www.airbnb.com/l/lxlaf7nZ",
+      "maps": "https://www.google.com/maps/search/?api=1&query=4%2F44+Phetkasem+Rd%2C+Soi+Hua+Hin+96%2F1%2C+Hua+Hin%2C+Prachuap+Khiri+Khan+77110"
+    }
+  },
+  "flights": {
+    "group": {
+      "outbound": {
+        "airline": "Vietravel Airlines",
+        "flight": "VU137",
+        "date": "Thứ Sáu, 28/08/2026",
+        "from": "Hà Nội (HAN)",
+        "to": "Bangkok (BKK)",
+        "depart": "10:55",
+        "arrive": "12:55",
+        "duration": "2 giờ",
+        "booking": "QUW1YI",
+        "note": "Ghế được chỉ định khi làm thủ tục."
+      },
+      "return": {
+        "airline": "Vietravel Airlines",
+        "flight": "VU136",
+        "date": "Thứ Tư, 02/09/2026",
+        "from": "Bangkok (BKK)",
+        "to": "Hà Nội (HAN)",
+        "depart": "14:05",
+        "arrive": "16:05",
+        "duration": "2 giờ",
+        "booking": "ZI900Z",
+        "note": "Theo vé đã tải lên."
+      }
+    },
+    "nga": {
+      "outbound": {
+        "airline": "Thai Airways",
+        "flight": "TG565",
+        "date": "Thứ Sáu, 28/08/2026",
+        "from": "Hà Nội (HAN)",
+        "to": "Bangkok (BKK)",
+        "depart": "20:45",
+        "arrive": "22:35",
+        "booking": "B9G9FF"
+      },
+      "return": {
+        "airline": "VietJet Air",
+        "flight": "VJ902",
+        "date": "Thứ Tư, 02/09/2026",
+        "from": "Bangkok (BKK)",
+        "to": "Hà Nội (HAN)",
+        "depart": "14:00",
+        "arrive": "15:50",
+        "booking": "EUQGXK"
+      }
+    }
+  },
+  "contacts": {
+    "Rene": "",
+    "Chris": "",
+    "Bách": "",
+    "Moon": ""
+  },
+  "money": {
+    "bank": "VietinBank",
+    "name": "Christian Youngwook Choi",
+    "account": "108875559484",
+    "method": "Đổi THB với Chris vào đầu chuyến đi. Chris sẽ báo tỷ giá thực tế nhận được từ ATM. Mỗi người chuyển số tiền tương đương bằng VND qua tài khoản ngân hàng."
+  },
+  "photos": "https://photos.app.goo.gl/fR2XP6k3P6i1gRBL7",
+  "expenses": "",
+  "places": {
+    "bangkok": [
+      {
+        "name": "7-Eleven gần Asia Hotel",
+        "address": "744/34 Phaya Thai Rd, Ratchathewi, Bangkok 10400",
+        "maps": "https://www.google.com/maps/search/?api=1&query=744%2F34+Phaya+Thai+Rd%2C+Ratchathewi%2C+Bangkok+10400"
+      },
+      {
+        "name": "7-Eleven gần khu Phaya Thai",
+        "address": "83/2 Phaya Thai Rd, Ratchathewi, Bangkok 10400",
+        "maps": "https://www.google.com/maps/search/?api=1&query=83%2F2+Phaya+Thai+Rd%2C+Ratchathewi%2C+Bangkok+10400"
+      }
+    ],
+    "huaHin": [
+      {
+        "name": "7-Eleven khu Soi 94",
+        "address": "175/34 Soi 94, Hua Hin 77110",
+        "maps": "https://www.google.com/maps/search/?api=1&query=175%2F34+Soi+94%2C+Hua+Hin+77110"
+      },
+      {
+        "name": "7-Eleven trên Phet Kasem",
+        "address": "107 Phet Kasem Rd, Nong Kae, Hua Hin 77110",
+        "maps": "https://www.google.com/maps/search/?api=1&query=107+Phet+Kasem+Rd%2C+Nong+Kae%2C+Hua+Hin+77110"
+      },
+      {
+        "name": "Lotus's Market Village Hua Hin",
+        "address": "234/1 Phet Kasem Rd, Hua Hin 77110",
+        "maps": "https://www.google.com/maps/search/?api=1&query=Lotus%27s+Market+Village+Hua+Hin"
+      }
+    ]
+  }
+}
