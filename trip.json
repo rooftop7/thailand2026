@@ -34,10 +34,46 @@
   "photoAlbum": "https://photos.app.goo.gl/fR2XP6k3P6i1gRBL7",
 "flights": {
   "group": {
-    "note": "Chuyến bay chung cho 5 người;\nOutbound — Friday, August 28, 2026\nAirline: Vietravel Airlines\nFlight: VU137\nFrom: Hanoi (HAN)\nTo: Bangkok (BKK)\nDeparture: 10:55\nArrival: 12:55\nDuration: 2 hours\nBooking: QUW1YI\nNote: Seats assigned at check-in.\n\nReturn — Wednesday, September 2, 2026\nAirline: Vietravel Airlines\nFlight: VU136\nFrom: Bangkok (BKK)\nTo: Hanoi (HAN)\nDeparture: 14:05\nArrival: 16:05\nDuration: 2 hours\nBooking: ZI900Z"
+    "title": "👥 Chuyến bay chung",
+    "passengers": "5 người",
+    "outbound": {
+      "route": "🇻🇳 Hanoi → 🇹🇭 Bangkok",
+      "date": "Thứ Sáu, 28/08/2026",
+      "airline": "Vietravel Airlines",
+      "flight": "VU137",
+      "time": "10:55 → 12:55",
+      "duration": "2 giờ",
+      "booking": "QUW1YI",
+      "note": "Ghế được xếp khi check-in"
+    },
+    "return": {
+      "route": "🇹🇭 Bangkok → 🇻🇳 Hanoi",
+      "date": "Thứ Tư, 02/09/2026",
+      "airline": "Vietravel Airlines",
+      "flight": "VU136",
+      "time": "14:05 → 16:05",
+      "duration": "2 giờ",
+      "booking": "ZI900Z"
+    }
   },
   "nga": {
-    "note": "Chuyến bay riêng của Nga;\nOutbound — Friday, August 28, 2026\nAirline: Thai Airways\nFlight: TG565\nFrom: Hanoi (HAN)\nTo: Bangkok (BKK)\nDeparture: 20:45\nArrival: 22:35\nBooking: B9G9FF\n\nReturn — Wednesday, September 2, 2026\nAirline: VietJet Air\nFlight: VJ902\nFrom: Bangkok (BKK)\nTo: Hanoi (HAN)\nDeparture: 14:00\nArrival: 15:50\nBooking: EUQGXK"
+    "title": "👤 Chuyến bay của Nga",
+    "outbound": {
+      "route": "🇻🇳 Hanoi → 🇹🇭 Bangkok",
+      "date": "Thứ Sáu, 28/08/2026",
+      "airline": "Thai Airways",
+      "flight": "TG565",
+      "time": "20:45 → 22:35",
+      "booking": "B9G9FF"
+    },
+    "return": {
+      "route": "🇹🇭 Bangkok → 🇻🇳 Hanoi",
+      "date": "Thứ Tư, 02/09/2026",
+      "airline": "VietJet Air",
+      "flight": "VJ902",
+      "time": "14:00 → 15:50",
+      "booking": "EUQGXK"
+    }
   }
 },
   "itinerary": [
