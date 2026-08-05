@@ -1,123 +1,127 @@
 {
-  "title": "Thailand 2026 🇹🇭",
-  "dates": "28/08 – 02/09/2026",
+  "title": "🇹🇭 Thailand 2026",
+  "subtitle": "Thông tin chuyến đi · 28/8–2/9/2026",
   "travelers": [
-    "Chris",
-    "Jessica",
     "Jessica Huyền",
     "Bách",
+    "Nga",
     "Moon",
-    "Nga"
+    "Chris",
+    "Jessica"
   ],
   "airbnbs": {
-  "bangkok": {
-    "name": "Bangkok",
-    "address": "อยู่ในซอยเดียวกันกับโรงแรมเอเชีย\n323 Soi Phayathai, Ratchathewi, Bangkok 10400, Thailand",
-    "airbnb": "https://www.airbnb.com/l/PzAZ262h?s=67&unique_share_id=b6d1ca4c-1cfd-4481-a085-59eca7335a9c",
-    "maps": "https://www.google.com/maps/search/?api=1&query=323+Soi+Phayathai%2C+Ratchathewi%2C+Bangkok+10400",
-    "features": "🛏️ 3 phòng · 7 giường\n🚿 4 phòng tắm\n\nCó sẵn:\n📺 TV\n❄️ Điều hòa\n📶 Wi-Fi\n\n⚠️ Lưu ý:\n❌ Không có máy giặt\n❌ Không có bếp\n❌ Không có nước nóng\n❌ Không cung cấp khăn tắm → nhớ mang theo"
-  },
-  "huaHin": {
-    "name": "Hua Hin",
-    "address": "4/44 Phetkasem Rd., Soi Hua Hin 96/1, ตำบลหัวหิน, Prachuap Khiri Khan 77110, Thailand",
-    "airbnb": "https://www.airbnb.com/l/lxlaf7nZ",
-    "maps": "https://www.google.com/maps/search/?api=1&query=4%2F44+Phetkasem+Rd%2C+Soi+Hua+Hin+96%2F1%2C+Hua+Hin%2C+Prachuap+Khiri+Khan+77110",
-    "features": "🛏️ 4 phòng ngủ · 9 giường\n🚿 4,5 phòng tắm\n\nTiện nghi:\n🏊 Hồ bơi ngâm nước muối (saltwater plunge pool)\n🧺 Máy giặt\n👕 Máy sấy quần áo\n🧴 Dầu gội, dầu xả & xà phòng\n🛁 Khăn tắm\n👔 Bàn ủi\n💨 Máy sấy tóc\n🍚 Nồi cơm điện\n🍞 Máy nướng bánh mì\n🔥 Lò nướng\n📡 Wi-Fi"
-  }
-},
-  "flights": {
-    "group": {
-      "outbound": {
-        "airline": "Vietravel Airlines",
-        "flight": "VU137",
-        "date": "Thứ Sáu, 28/08/2026",
-        "from": "Hà Nội (HAN)",
-        "to": "Bangkok (BKK)",
-        "depart": "10:55",
-        "arrive": "12:55",
-        "duration": "2 giờ",
-        "booking": "QUW1YI",
-        "note": "Ghế được chỉ định khi làm thủ tục."
-      },
-      "return": {
-        "airline": "Vietravel Airlines",
-        "flight": "VU136",
-        "date": "Thứ Tư, 02/09/2026",
-        "from": "Bangkok (BKK)",
-        "to": "Hà Nội (HAN)",
-        "depart": "14:05",
-        "arrive": "16:05",
-        "duration": "2 giờ",
-        "booking": "ZI900Z",
-        "note": "Theo vé đã tải lên."
-      }
+    "bangkok": {
+      "name": "Bangkok",
+      "address": "323 Soi Phayathai, Ratchathewi, Bangkok 10400, Thailand",
+      "airbnb": "https://www.airbnb.com/l/PzAZ262h?s=67&unique_share_id=b6d1ca4c-1cfd-4481-a085-59eca7335a9c",
+      "maps": "https://www.google.com/maps/search/?api=1&query=323+Soi+Phayathai%2C+Ratchathewi%2C+Bangkok+10400",
+      "features": "🛏️ 3 phòng · 7 giường\n🚿 4 phòng tắm\n\nCó sẵn:\n📺 TV\n❄️ Điều hòa\n📶 Wi-Fi\n\n⚠️ Lưu ý:\n❌ Không có máy giặt\n❌ Không có bếp\n❌ Không có nước nóng\n❌ Không cung cấp khăn tắm → nhớ mang theo"
     },
-    "nga": {
-      "outbound": {
-        "airline": "Thai Airways",
-        "flight": "TG565",
-        "date": "Thứ Sáu, 28/08/2026",
-        "from": "Hà Nội (HAN)",
-        "to": "Bangkok (BKK)",
-        "depart": "20:45",
-        "arrive": "22:35",
-        "booking": "B9G9FF"
-      },
-      "return": {
-        "airline": "VietJet Air",
-        "flight": "VJ902",
-        "date": "Thứ Tư, 02/09/2026",
-        "from": "Bangkok (BKK)",
-        "to": "Hà Nội (HAN)",
-        "depart": "14:00",
-        "arrive": "15:50",
-        "booking": "EUQGXK"
-      }
+    "huaHin": {
+      "name": "Hua Hin",
+      "address": "4/44 Phetkasem Rd., Soi Hua Hin 96/1, Hua Hin, Prachuap Khiri Khan 77110, Thailand",
+      "airbnb": "https://www.airbnb.com/l/lxlaf7nZ",
+      "maps": "https://www.google.com/maps/search/?api=1&query=4%2F44+Phetkasem+Rd%2C+Soi+Hua+Hin+96%2F1%2C+Hua+Hin%2C+Prachuap+Khiri+Khan+77110",
+      "features": "🛏️ 4 phòng ngủ · 9 giường\n🚿 4,5 phòng tắm\n\nTiện nghi:\n🏊 Hồ bơi ngâm nước muối\n🧺 Máy giặt\n👕 Máy sấy quần áo\n🧴 Dầu gội, dầu xả & xà phòng\n🛁 Khăn tắm\n👔 Bàn ủi\n💨 Máy sấy tóc\n🍚 Nồi cơm điện\n🍞 Máy nướng bánh mì\n🔥 Lò nướng\n📡 Wi-Fi"
     }
   },
   "contacts": {
-    "Rene": "0632090731",
+    "Rene": "",
     "Chris": "",
     "Bách": "",
     "Moon": ""
   },
-  "money": {
-    "bank": "VietinBank",
-    "name": "Christian Youngwook Choi",
-    "account": "108875559484",
-    "method": "Đổi THB với Chris vào đầu chuyến đi. Chris sẽ báo tỷ giá thực tế nhận được từ ATM. Mỗi người chuyển số tiền tương đương bằng VND qua tài khoản ngân hàng."
+  "photoAlbum": "https://photos.app.goo.gl/fR2XP6k3P6i1gRBL7",
+  "flights": {
+    "group": {
+      "note": "Chuyến bay chung cho 5 người; thông tin chi tiết sẽ bổ sung."
+    },
+    "nga": {
+      "note": "Chuyến bay riêng của Nga; thông tin sẽ bổ sung."
+    }
   },
-  "photos": "https://photos.app.goo.gl/fR2XP6k3P6i1gRBL7",
-  "expenses": "",
-  "places": {
-    "bangkok": [
-      {
-        "name": "7-Eleven gần Asia Hotel",
-        "address": "744/34 Phaya Thai Rd, Ratchathewi, Bangkok 10400",
-        "maps": "https://www.google.com/maps/search/?api=1&query=744%2F34+Phaya+Thai+Rd%2C+Ratchathewi%2C+Bangkok+10400"
-      },
-      {
-        "name": "7-Eleven gần khu Phaya Thai",
-        "address": "83/2 Phaya Thai Rd, Ratchathewi, Bangkok 10400",
-        "maps": "https://www.google.com/maps/search/?api=1&query=83%2F2+Phaya+Thai+Rd%2C+Ratchathewi%2C+Bangkok+10400"
-      }
-    ],
-    "huaHin": [
-      {
-        "name": "7-Eleven khu Soi 94",
-        "address": "175/34 Soi 94, Hua Hin 77110",
-        "maps": "https://www.google.com/maps/search/?api=1&query=175%2F34+Soi+94%2C+Hua+Hin+77110"
-      },
-      {
-        "name": "7-Eleven trên Phet Kasem",
-        "address": "107 Phet Kasem Rd, Nong Kae, Hua Hin 77110",
-        "maps": "https://www.google.com/maps/search/?api=1&query=107+Phet+Kasem+Rd%2C+Nong+Kae%2C+Hua+Hin+77110"
-      },
-      {
-        "name": "Lotus's Market Village Hua Hin",
-        "address": "234/1 Phet Kasem Rd, Hua Hin 77110",
-        "maps": "https://www.google.com/maps/search/?api=1&query=Lotus%27s+Market+Village+Hua+Hin"
-      }
-    ]
-  }
+  "itinerary": [
+    {
+      "date": "Thứ Sáu · 28/8",
+      "title": "Đến Bangkok",
+      "items": [
+        "Đến Bangkok vào buổi chiều.",
+        "Nhận phòng và nghỉ ngơi.",
+        "Khám phá khu vực xung quanh một chút.",
+        "Ăn tối."
+      ]
+    },
+    {
+      "date": "Thứ Bảy · 29/8",
+      "title": "Bangkok",
+      "items": [
+        "Buổi sáng: có thể đi nhà thờ Trinity Adventist Church.",
+        "Buổi chiều: đi chơi thiên nhiên và/hoặc mua sắm.",
+        "Ăn tối bên ngoài."
+      ]
+    },
+    {
+      "date": "Chủ Nhật · 30/8",
+      "title": "Bangkok → Hua Hin",
+      "items": [
+        "Buổi sáng: đi taxi thẳng đến Airbnb ở Hua Hin.",
+        "Nhận phòng và nghỉ ngơi.",
+        "Lịch trình còn lại khá nhẹ nhàng."
+      ]
+    },
+    {
+      "date": "Thứ Hai · 31/8",
+      "title": "Hua Hin",
+      "items": [
+        "Ngày linh hoạt / nghỉ ngơi / khám phá Hua Hin."
+      ]
+    },
+    {
+      "date": "Thứ Ba · 1/9",
+      "title": "Hua Hin",
+      "items": [
+        "Ngày linh hoạt / nghỉ ngơi / khám phá Hua Hin."
+      ]
+    },
+    {
+      "date": "Thứ Tư · 2/9",
+      "title": "Hua Hin → Bangkok",
+      "items": [
+        "🚌 6:30 sáng: đi shuttle bus của Roong Reuang về Bangkok (BKK)."
+      ]
+    }
+  ],
+  "sections": {
+    "sim": "📱 Tải ứng dụng Klook. Tìm “Thailand eSIM” và chọn gói phù hợp với số ngày đi và nhu cầu dữ liệu.",
+    "currency": "💵 Đổi baht với Chris vào đầu chuyến đi. Chris sẽ báo tỷ giá thực tế lấy từ ATM; sau đó mỗi người có thể chuyển phần tương đương bằng VND.",
+    "photos": "📸 Album ảnh chung đã được tạo.",
+    "visa": "📄 Công dân Việt Nam đi Thái Lan dưới 30 ngày không cần visa theo thông tin hiện có. Hãy kiểm tra yêu cầu nhập cảnh chính thức trước chuyến đi. Giữ thuốc trong bao bì gốc và kiểm tra quy định riêng của Thái Lan đối với thuốc được kiểm soát. Nếu lái xe máy, cần giấy phép phù hợp với yêu cầu của Thái Lan; luôn đội mũ bảo hiểm.",
+    "transport": "🚖 Nếu bị lạc, mở Google Maps và dùng địa chỉ Airbnb bên dưới. Nếu cần, liên hệ chủ nhà qua Airbnb."
+  },
+  "packing": [
+    "☐ 5–6 áo nhẹ",
+    "☐ 4–5 quần short/quần nhẹ",
+    "☐ 1 bộ đẹp để ăn tối",
+    "☐ 5–6 bộ đồ lót / tất",
+    "☐ Đồ ngủ",
+    "☐ Đồ bơi",
+    "☐ Áo mưa nhẹ / poncho",
+    "☐ Giày đi bộ thoải mái",
+    "☐ Dép",
+    "☐ Ô nhỏ",
+    "☐ Mũ",
+    "☐ Kính râm",
+    "☐ Kem chống nắng",
+    "☐ Thuốc chống muỗi",
+    "☐ Quần áo thay thêm cho trẻ",
+    "☐ Bình nước",
+    "☐ Điện thoại",
+    "☐ Bộ sạc / dây sạc",
+    "☐ Pin dự phòng",
+    "☐ Tai nghe",
+    "☐ Hộ chiếu",
+    "☐ Ảnh / bản sao hộ chiếu",
+    "☐ Thẻ tín dụng / ghi nợ",
+    "☐ Thẻ hoặc tiền mặt dự phòng"
+  ]
 }
