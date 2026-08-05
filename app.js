@@ -24,7 +24,7 @@ function renderFlights(){
     card("👩 Nga · Đi",n.outbound)+card("👩 Nga · Về",n.return,true);
 }
 function renderStays(){
-  const a = trip.airbnbs;
+  const a=trip.airbnbs;
 
   document.getElementById("stayCards").innerHTML=[a.bangkok,a.huaHin].map(x=>`
     <div class="card stay-card">
@@ -42,7 +42,7 @@ function renderStays(){
       </div>
     </div>
   `).join("");
-}
+}}
 function renderPlaces(){
   let html="";
   for(const [city,places] of Object.entries(trip.places)){
