@@ -25,7 +25,24 @@ function renderFlights(){
 }
 function renderStays(){
   const a=trip.airbnbs;
-  document.getElementById("stayCards").innerHTML=[a.bangkok,a.huaHin].map(x=>`<div class="card stay-card"><h3>📍 ${esc(x.name)}</h3><div class="address">${esc(x.address)}</div><div class="two"><a class="primary" href="${x.airbnb}" target="_blank">🏠 Mở Airbnb</a><a class="secondary" href="${x.maps}" target="_blank">🗺️ Google Maps</a></div></div>`).join("");
+
+  document.getElementById("stayCards").innerHTML=[a.bangkok,a.huaHin].map(x=>`
+    <div class="card stay-card">
+      <h3>📍 ${esc(x.name)}</h3>
+
+      <div class="address">${esc(x.address)}</div>
+
+      <div class="address" style="white-space:pre-line;margin-top:12px">
+        ${esc(x.features || "")}
+      </div>
+
+      <div class="two">
+        <a class="primary" href="${x.airbnb}" target="_blank">🏠 Mở Airbnb</a>
+        <a class="secondary" href="${x.maps}" target="_blank">🗺️ Google Maps</a>
+      </div>
+    </div>
+  `).join("");
+}
 }
 function renderPlaces(){
   let html="";
