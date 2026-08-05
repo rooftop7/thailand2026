@@ -43,7 +43,6 @@ function renderStays(){
     </div>
   `).join("");
 }
-}
 function renderPlaces(){
   let html="";
   for(const [city,places] of Object.entries(trip.places)){
