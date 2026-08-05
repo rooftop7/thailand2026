@@ -34,10 +34,43 @@
   "photoAlbum": "https://photos.app.goo.gl/fR2XP6k3P6i1gRBL7",
   "flights": {
     "group": {
-      "note": "Chuyến bay chung cho 5 người; thông tin chi tiết sẽ bổ sung."
+      "note": "Chuyến bay chung cho 5 người; Outbound — Friday, August 28, 2026
+Airline: Vietravel Airlines
+Flight: VU137
+From: Hanoi (HAN)
+To: Bangkok (BKK)
+Departure: 10:55
+Arrival: 12:55
+Duration: 2 hours
+Booking: QUW1YI
+Note: Seats assigned at check-in.
+Return — Wednesday, September 2, 2026
+Airline: Vietravel Airlines
+Flight: VU136
+From: Bangkok (BKK)
+To: Hanoi (HAN)
+Departure: 14:05
+Arrival: 16:05
+Duration: 2 hours
+Booking: ZI900Z."
     },
     "nga": {
-      "note": "Chuyến bay riêng của Nga; thông tin sẽ bổ sung."
+      "note": "Chuyến bay riêng của Nga; Outbound — Friday, August 28, 2026
+Airline: Thai Airways
+Flight: TG565
+From: Hanoi (HAN)
+To: Bangkok (BKK)
+Departure: 20:45
+Arrival: 22:35
+Booking: B9G9FF
+Return — Wednesday, September 2, 2026
+Airline: VietJet Air
+Flight: VJ902
+From: Bangkok (BKK)
+To: Hanoi (HAN)
+Departure: 14:00
+Arrival: 15:50
+Booking: EUQGXK."
     }
   },
   "itinerary": [
